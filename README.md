@@ -1,0 +1,3 @@
+This project is a Java-based console application that models a City Hall management system, featuring two user roles: Admin and Citizen. Administrators can add, update, or remove citizen records and handle appointment types along with their available dates. Citizens have the ability to schedule and cancel appointments for various city hall services.
+
+The application illustrates core Java programming concepts such as inheritance, encapsulation, polymorphism, and the use of collections like HashMap and List. It clearly separates the responsibilities of admins and citizens, highlighting principles of object-oriented design. This system can be expanded in the future to include a graphical user interface, data persistence, and analytical reporting features.
